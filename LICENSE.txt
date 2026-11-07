@@ -1,0 +1,37 @@
+LYRE — COPYRIGHT AND LICENSING NOTICE
+
+This companion distribution includes EULA.txt and THIRD-PARTY-NOTICES.txt beside
+this notice. Repository-relative legal/ references below identify their source
+documents; the bundled third-party licence texts are in THIRD-PARTY-NOTICES.txt.
+
+Lyre's original application code is proprietary. All rights reserved.
+
+No license to Lyre's original code is granted by the presence of this
+repository, by any third-party license text included in it, or by the public
+availability of any third-party component. Copyright in Lyre's original code is
+held by Lyre LLC, a Texas limited liability company. "Lyre" and "Lyre Studio" are
+names Lyre LLC uses for the software. Jonathan Bakhit, an individual, held it before
+the effective date stated in legal/EULA.md. The licence terms for the Software are
+stated in legal/EULA.md (not reviewed by a lawyer; distributed without counsel
+review since 2026-09-19) and are summarized in the root LICENSE notice. No
+licence is granted except as
+legal/EULA.md expressly states.
+
+Third-party components incorporated into or distributed with Lyre remain under
+their own licenses. Their required attribution, license texts and notices are
+retained in legal/third-party-notices.txt, legal/licenses/, and the per-feature
+notices described in legal/README.md. This applies in particular to Paseo-derived
+components in app, which are licensed under Apache-2.0 and therefore
+retain Apache-2.0 permissions; that code cannot and is not relicensed as
+proprietary. Nothing in this notice restricts rights granted under an applicable
+open-source license.
+
+Lyre is not affiliated with or endorsed by Paseo or the other projects named in
+the third-party notices. Project names identify provenance only; no trademark
+rights are granted.
+
+The root LICENSE is a proprietary notice for Lyre's own code only. Do not replace
+it with, or add alongside it, a top-level Apache-2.0 LICENSE for the repository;
+the Apache-2.0 text applies solely to the Paseo-derived foundation and is kept
+under app and legal/licenses/. See legal/README.md for the review and
+notice-generation process.
